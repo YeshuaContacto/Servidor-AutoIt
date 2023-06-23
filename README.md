@@ -1,6 +1,6 @@
-# Servidor-AutoIt [![AutoIt](https://img.shields.io/badge/AutoIt-blue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
+# Servidor-AutoIt 
 
-# Descripción del proyecto
+# Descripción del proyecto [![AutoIt](https://img.shields.io/badge/AutoIt-blue?style=for-the-badge&logo=autoit&logoColor=white&labelColor=101010)]()
 
 Este proyecto consiste en un servidor y un cliente escritos en AutoIt para establecer una comunicación TCP/IP. El servidor y el cliente permiten la ejecución remota de acciones en el sistema operativo.
 
